@@ -1,0 +1,6 @@
+*.xlsx
+*.docx
+*.png
+historial*
+backend/__pycache__*
+backend/venv*
